@@ -9,8 +9,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-   
+    "web-vitals": "^2.1.4",
+    "module-1": "git+https://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:x-oauth-basic@github.com/Slepko13/module-1.git",
+    "module-2": "git+https://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:x-oauth-basic@github.com/Slepko13/module-2.git"
   },
   "scripts": {
     "start": "react-scripts start",
